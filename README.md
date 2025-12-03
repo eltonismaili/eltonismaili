@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Elton Ismaili
 
-<!--
-**eltonismaili/eltonismaili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | Java & Frontend Enthusiast
 
-Here are some ideas to get you started:
+I'm a developer focused on building clean, functional, and modern applications.  
+Currently working with **Java (Spring Boot)**, **Vue**, **React**, **MSSQL**, **PostgreSQL**, and learning **Kotlin** & **Swift**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+**Backend:** Java, Spring Boot  
+**Frontend:** React, Vue  
+**Databases:** MSSQL, PostgreSQL  
+**Other:** Git, REST APIs, Swift, Python, Xcode  
+
+---
+
+## 📌 Featured Projects
+
+### 🟢 Event Management System  
+**Spring Boot + Vue + PostgreSQL**  
+A full system for managing concerts & events. Includes admin dashboard, roles, and advanced UI.
+
+### 🟦 Fitness App (iOS)  
+**Swift + UIKit + MapKit**  
+Modern multi-screen fitness app with tables, collection views, maps, animations & more.
+
+### ⚪ Appointment Management System  
+**Java + MSSQL**  
+Full CRUD system for medical appointment management.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EltonIsmaili&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EltonIsmaili&layout=compact)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/…
+- Email: eltonismaili@example.com
