@@ -62,48 +62,13 @@
 ---
 
 ## 📌 Featured Projects
-
-### 🧠 Internship Matching AI (In Progress)
-**Stack:** Java, Spring Boot, React/Vue (full stack), MSSQL/PostgreSQL, AI integration  
-- AI-powered platform for matching students with internships  
-- Role-based access control with access & refresh tokens  
-- Secure authentication and authorization  
-- Full-stack project with ongoing AI integration for smart recommendations  
-
----
-
-### 🎫 Event Management System
-**Backend:** Java, Spring Boot (role-based access, JWT authentication)  
-**Frontend:** Vue.js  
-- Manage concerts & events with admin dashboard  
-- Role-based access (admin, organizer, user)  
-- JWT-protected REST API and modern UI
-
----
-
-### 🦷 DentalArtStudio (Live Project)
-**Stack:** React.js  
-- Live website for a dental studio  
-- Modern responsive UI for services & contact  
-- Deployed & used in production  
-🔗 **Live:** https://dentalartstudio-ks.com/
-
----
-
-### 📍 Attendance Tracking System
-**Stack:** Java, Spring Boot, Thymeleaf, MSSQL  
-- Web app for employee/student attendance  
-- CRUD operations for users & attendance records  
-- Server-side rendered views with Thymeleaf templates
-
----
-
-### 🏃 FitTrack Swift (iOS)
-**Stack:** Swift, UIKit  
-- Fitness tracking app with multiple screens  
-- Uses table views, collection views, maps & animations  
-- Designed for a modern iOS experience
-
+| Project | Tech Stack | Frontend | Backend |
+|---------|------------|----------|---------|
+| Internship Matching AI (In Progress) | Java, Spring Boot, React/Vue, MSSQL/PostgreSQL, AI | React or Vue (In progress) | Spring Boot (In progress) |
+| Event Management System | Java, Spring Boot, Vue.js, PostgreSQL | [Vue.js Repo](https://github.com/eltonismaili/Event-Management-Vue) | [REST API Repo](https://github.com/eltonismaili/Event-Management-SpringBoot) |
+| DentalArtStudio (Live Project) | React.js | [React Repo](https://github.com/eltonismaili/DentalArtStudio) | - |
+| Attendance Tracking System | Java, Spring Boot, Thymeleaf, MSSQL | Thymeleaf Templates | Spring Boot |
+| FitTrack iOS App | Swift, UIKit, MapKit | iOS App (UIKit) | - |
 ---
 
 ## 📫 Contact & Links
