@@ -64,10 +64,10 @@
 ## 📌 Featured Projects
 | Project | Tech Stack | Frontend | Backend |
 |---------|------------|----------|---------|
-| Internship Matching AI (In Progress) | Java, Spring Boot, React/Vue, MSSQL/PostgreSQL, AI | React or Vue (In progress) | Spring Boot (In progress) |
+| Internship Matching AI (In Progress) | Java, Spring Boot, React/Vue, MSSQL/PostgreSQL, AI | React(In progress) | [Spring Boot (In progress)](https://github.com/eltonismaili/InternshipMatchingAI/tree/main/backend) |
 | Event Management System | Java, Spring Boot, Vue.js, PostgreSQL | [Vue.js Repo](https://github.com/eltonismaili/Event-Management-Vue) | [REST API Repo](https://github.com/eltonismaili/Event-Management-SpringBoot) |
 | DentalArtStudio (Live Project) | React.js | [React Repo](https://github.com/eltonismaili/DentalArtStudio) | - |
-| Attendance Tracking System | Java, Spring Boot, Thymeleaf, MSSQL | Thymeleaf Templates | Spring Boot |
+| Attendance Tracking System | Java, Spring Boot, Thymeleaf, MSSQL |  | [Spring Boot](https://github.com/eltonismaili/attendance-tracking-system) |
 | FitTrack iOS App | Swift, UIKit, MapKit | iOS App (UIKit) | - |
 ---
 
