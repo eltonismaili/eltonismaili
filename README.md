@@ -69,7 +69,7 @@
 | DentalArtStudio (Live Project) | React.js | [React Repo](https://github.com/eltonismaili/DentalArtStudio) | - |
 | Attendance Tracking System | Java, Spring Boot, Thymeleaf, MSSQL | - | [Spring Boot](https://github.com/eltonismaili/attendance-tracking-system) |
 | FitTrack iOS App | Swift, UIKit, MapKit | [iOS App (UIKit)](https://github.com/eltonismaili/FitTrack-Swift) | - |
-| Machine Learning Player Statistics | Python, Machine Learning, Data Analysis | [Project Repo](https://github.com/eltonismaili/Machine-Learning-PlayerStatistics) | - |
+| Machine Learning Player Statistics | Python, Machine Learning, Data Analysis | - | [Project Repo](https://github.com/eltonismaili/Machine-Learning-PlayerStatistics) |
 
 
 ## 📫 Contact & Links
