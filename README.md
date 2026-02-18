@@ -64,12 +64,13 @@
 ## 📌 Featured Projects
 | Project | Tech Stack | Frontend | Backend |
 |---------|------------|----------|---------|
-| Internship Matching AI (In Progress) | Java, Spring Boot, React, PostgreSQL, AI | React(In progress) | [Spring Boot (In progress)](https://github.com/eltonismaili/InternshipMatchingAI/tree/main/backend) |
+| Internship Matching AI (In Progress) | Java, Spring Boot, React, PostgreSQL, AI | React (In progress) | [Spring Boot (In progress)](https://github.com/eltonismaili/InternshipMatchingAI/tree/main/backend) |
 | Event Management System | Java, Spring Boot, Vue.js, PostgreSQL | [Vue.js](https://github.com/eltonismaili/event-managment-vue) | [REST API Repo](https://github.com/eltonismaili/Event-Management) |
 | DentalArtStudio (Live Project) | React.js | [React Repo](https://github.com/eltonismaili/DentalArtStudio) | - |
-| Attendance Tracking System | Java, Spring Boot, Thymeleaf, MSSQL |  | [Spring Boot](https://github.com/eltonismaili/attendance-tracking-system) |
+| Attendance Tracking System | Java, Spring Boot, Thymeleaf, MSSQL | - | [Spring Boot](https://github.com/eltonismaili/attendance-tracking-system) |
 | FitTrack iOS App | Swift, UIKit, MapKit | [iOS App (UIKit)](https://github.com/eltonismaili/FitTrack-Swift) | - |
----
+| Machine Learning Player Statistics | Python, Machine Learning, Data Analysis | [Project Repo](https://github.com/eltonismaili/Machine-Learning-PlayerStatistics) | - |
+
 
 ## 📫 Contact & Links
 
